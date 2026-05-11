@@ -3,7 +3,15 @@
 <h1 align="center">Introdução às PINNs, Redes Neurais Informadas por Física.</h1>
 
 <div align='justify'>
-Este repositório contém um material didático sobre PINNs desenvolvido durante a disciplina de Redes Neurais no terceiro semestre do curso de Bacharelado Interdisciplinar em Ciência e Tecnologia da Ilum - Escola  de Ciência.
+<p>Este repositório contém um material didático sobre PINNs desenvolvido durante a disciplina de Redes Neurais no terceiro semestre do curso de Bacharelado Interdisciplinar em Ciência e Tecnologia da Ilum - Escola  de Ciência.</p>
+</div>
+
+<div align='justify'>
+<p><b>Palavras-chave</b>. PINN, MLP, Redes Neurais, tutorial, didática</p>
+</div>
+
+<div align='justify'>
+<p><b>Conhecimentos prévios para entender o tutorial</b>: espera-se conhecimentos básicos de Equações Diferenciais e de aprendizado de máquina, bem como contato prévio com MLP em PyTorch. </p>
 </div>
 
 ## Conteúdos do repositório
@@ -27,16 +35,6 @@ Este repositório contém um material didático sobre PINNs desenvolvido durante
       </ul>
     </ul>
   </ul>
-
-<b>Palavras-chave</b>. PINN, MLP, Redes Neurais, tutorial, didática
-
-<div align='justify'>
-<b>Objetivo</b>: introduzir de didaticamente a Rede Neural Informada por Física, também conhecida como PINN.</p>
-</div>
-
-<div align='justify'>
-<b>Conhecimentos prévios para entender o tutorial</b>: espera-se conhecimentos básicos de Equações Diferenciais e de aprendizado de máquina, bem como contato prévio com MLP em PyTorch. 
-</div>
 
 ## Autor
 
