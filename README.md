@@ -28,6 +28,7 @@
     <li> :file_folder: <b>Imagens</b>: Contém as imagens obtidas como resultados dos modelos, bem como o cabeçalho. </li>
     <ul>
       <li> :framed_picture: <b>Cabeçalho.png</b>: Imagem usada para o cabeçalho; </li>
+      <li> :framed_picture: <b>Rede.png</b>: Imagem ilustrativa usada para descrever arquitetura da MLP; </li>
       <li> :file_folder: <b>Resultados</b>: Contém as imagens dos gráficos de evolução das losses e de comparação com solução analítica. </li>
       <ul>
         <li> :file_folder: <b>Básico</b>: Contém as imagens dos gráficos de evolução das losses e de comparação com solução analítica do <i>jupyter notebook</i> Basica_PINN.ipynb; </li>
