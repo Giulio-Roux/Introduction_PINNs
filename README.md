@@ -2,6 +2,12 @@
 
 <h1 align="center">Introdução às PINNs, Redes Neurais Informadas por Física.</h1>
 
+`Autor`: Giulio Oertel Spinelli Roux César
+
+<hr>
+
+## Sobre o repositório
+
 <div align='justify'>
 <p>Este repositório contém um material didático sobre PINNs desenvolvido durante a disciplina de Redes Neurais no terceiro semestre do curso de Bacharelado Interdisciplinar em Ciência e Tecnologia da Ilum - Escola  de Ciência.</p>
 </div>
@@ -13,6 +19,8 @@
 <div align='justify'>
 <p><b>Conhecimentos prévios para entender o tutorial</b>: espera-se conhecimentos básicos de Equações Diferenciais e de aprendizado de máquina, bem como contato prévio com MLP em PyTorch. </p>
 </div>
+
+<hr>
 
 ## Conteúdos do repositório
 
@@ -36,6 +44,21 @@
       </ul>
     </ul>
   </ul>
+
+<hr>
+
+## Professor Orientador
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#" title="Prof. Daniel R. Cassar">
+        <img src="https://avatars.githubusercontent.com/u/9871905?v=4" width="100px;" alt="Foto do Daniel do Github"/><br>
+          <a href="https://github.com/drcassar"><b>Prof. Dr. Daniel R. Cassar<b></a>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Autor
 
