@@ -28,10 +28,6 @@ def func_campo_resfriamento(T, r, T_amb):
     '''Calcula função de campo da lei de resfriamento.'''
     return r*(T_amb - T)
 
-def func_campo_ohs(x, w0):
-    '''Calcula função de campo do oscilador harmônico.'''
-    return - (w0**2) * x
-
 def func_campo_norm(u_norm, func_campo, t_min, t_max, u_min, u_max, ordem=1, **kwargs):
     '''
     Calcula a função de campo para u normalizado entre -1 e +1, 
@@ -49,10 +45,6 @@ def func_campo_norm(u_norm, func_campo, t_min, t_max, u_min, u_max, ordem=1, **k
 def solucao_analitica_resfriamento(t, T0, r, T_amb):
     '''Calcula a solução exata: T(t) = (T0 - T_amb) * exp(-r * t) + T_amb'''
     return (T0 - T_amb) * np.exp(-r * t) + T_amb
-
-def solucao_analitica_ohs(t, x0, w0):
-    '''Calcula a solução exata: x(t) = x0*(cos(w0*t) + sen(w0*t))'''
-    return x0*(np.cos(w0*t) + np.sin(w0*t))
 
 # -------------------------------- #
 #     Função para criar malhas     #
